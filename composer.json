@@ -1,0 +1,6 @@
+{
+"require": {
+        "php":">=5.3.0",
+        "ircmaxell/random-lib":"v1.2.0"
+          }
+}
