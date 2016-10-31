@@ -6,9 +6,7 @@
  * Date: 30.10.16
  * Time: 9:32
  */
-
-namespace lesson2\classes;
-
+require_once 'vendor/autoload.php';
 class Television extends Model   implements Consol, Ports
 {
   public  function on()

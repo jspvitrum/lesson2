@@ -7,7 +7,6 @@
  * Time: 9:33
  */
 
-namespace lesson2\classes;
 interface Consol
 {
     function  on ();

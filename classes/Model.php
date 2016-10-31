@@ -6,9 +6,6 @@
  * Date: 30.10.16
  * Time: 10:25
  */
-
-require_once 'vendor/autoload.php';
-
 abstract class Model
 {
     public function printOut()
